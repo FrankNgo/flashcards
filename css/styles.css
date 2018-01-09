@@ -1,0 +1,8 @@
+.well{
+  padding: 90px;
+  text-align: center;
+}
+
+#shown{
+  display: none;
+}
