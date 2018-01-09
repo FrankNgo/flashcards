@@ -1,8 +1,61 @@
 .well{
   padding: 90px;
   text-align: center;
+  height: 250px;
+  width: 250px;
 }
 
-#shown{
+.definition-shown{
   display: none;
+}
+
+.definition-shown-2{
+  display: none;
+}
+
+.definition-shown-3{
+  display: none;
+}
+.definition-shown-4{
+  display: none;
+}
+.definition-shown-5{
+  display: none;
+}
+.definition-shown-6{
+  display: none;
+}
+.definition-shown-7{
+  display: none;
+}
+.definition-shown-8{
+  display: none;
+}
+.definition-shown-9{
+  display: none;
+}
+.definition-shown-10{
+  display: none;
+}
+.definition-shown-11{
+  display: none;
+}
+
+.definition-shown-12{
+  display: none;
+}
+.definition-shown-13{
+  display: none;
+}
+.definition-shown-14{
+  display: none;
+}
+.definition-shown-15{
+  display: none;
+}
+.definition-shown-16{
+  display: none;
+}
+h1{
+  text-align: center;
 }
