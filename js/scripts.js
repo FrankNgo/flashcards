@@ -63,4 +63,12 @@ $(document).ready(function(){
     $(".definition-hidden-16").toggle();
     $(".definition-shown-16").toggle();
   });
+  $("button#yellow").click(function() {
+    $("body").removeClass();
+    $("body").addClass("yellow-background");
+  });
+  $("button#green").click(function() {
+    $("body").removeClass();
+    $("body").addClass("green-background");
+  });
 });

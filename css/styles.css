@@ -14,6 +14,24 @@ body {
 #bold {
   font-weight: bold;
   font-size: 30px;
+  color: white;
+}
+
+.jumbotron{
+  background-color: #B8C5CC;
+  font-size: 60px;
+}
+
+.button {
+  text-align: center;
+}
+
+.yellow-background {
+  background-color: #F1C5D1;
+}
+
+.green-background {
+  background-color: #D8B2D8;
 }
 
 /*#bold-2 {
