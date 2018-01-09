@@ -1,9 +1,26 @@
 .well{
-  padding: 90px;
+  padding-top: 95px;
   text-align: center;
   height: 250px;
   width: 250px;
+  margin: 10px 20px 30px 0px;
+  background-color: #7FADCA;
+  border: 5px solid #595959;
 }
+
+body {
+  background-color: #999999;
+}
+#bold {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+/*#bold-2 {
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 30px;
+}*/
 
 .definition-shown{
   display: none;
